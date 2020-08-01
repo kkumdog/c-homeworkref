@@ -1,0 +1,6 @@
+﻿  main.c
+d:\wangdao\homework\c\day2作业\2_参考答案_柱状图\main.c(59): warning C4013: “strcpy”未定义；假设外部返回 int
+d:\wangdao\homework\c\day2作业\2_参考答案_柱状图\main.c(37): warning C4101: “max”: 未引用的局部变量
+d:\wangdao\homework\c\day2作业\2_参考答案_柱状图\main.c(37): warning C4101: “mid”: 未引用的局部变量
+d:\wangdao\homework\c\day2作业\2_参考答案_柱状图\main.c(37): warning C4101: “min”: 未引用的局部变量
+  2_参考答案_柱状图.vcxproj -> D:\WangDao\homework\c\day2作业\Debug\2_参考答案_柱状图.exe

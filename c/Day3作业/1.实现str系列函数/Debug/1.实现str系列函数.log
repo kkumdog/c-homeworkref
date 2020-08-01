@@ -1,0 +1,5 @@
+﻿  main.c
+d:\wangdao\homework\c\day3作业\1.实现str系列函数\main.c(52): warning C4013: “gets”未定义；假设外部返回 int
+d:\wangdao\homework\c\day3作业\1.实现str系列函数\main.c(52): warning C4047: “!=”:“int”与“void *”的间接级别不同
+d:\wangdao\homework\c\day3作业\1.实现str系列函数\main.c(53): warning C4101: “i”: 未引用的局部变量
+  1.实现str系列函数.vcxproj -> D:\WangDao\homework\c\Day3作业\Debug\1.实现str系列函数.exe

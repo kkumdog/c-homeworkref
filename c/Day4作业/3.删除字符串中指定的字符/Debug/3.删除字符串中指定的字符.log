@@ -1,0 +1,4 @@
+﻿  main.c
+d:\wangdao\homework\c\day4作业\3.删除字符串中指定的字符\main.c(12): warning C4013: “gets”未定义；假设外部返回 int
+  LINK : 没有找到 D:\WangDao\homework\c\Day4作业\Debug\3.删除字符串中指定的字符.exe 或上一个增量链接没有生成它；正在执行完全链接
+  3.删除字符串中指定的字符.vcxproj -> D:\WangDao\homework\c\Day4作业\Debug\3.删除字符串中指定的字符.exe

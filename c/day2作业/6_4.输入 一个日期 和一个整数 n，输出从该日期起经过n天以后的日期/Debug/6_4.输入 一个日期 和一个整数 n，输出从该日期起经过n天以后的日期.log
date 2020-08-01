@@ -1,0 +1,6 @@
+﻿  main.c
+d:\wangdao\homework\c\day2作业\6_4.输入 一个日期 和一个整数 n，输出从该日期起经过n天以后的日期\main.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\wangdao\homework\c\day2作业\6_4.输入 一个日期 和一个整数 n，输出从该日期起经过n天以后的日期\main.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  6_4.输入 一个日期 和一个整数 n，输出从该日期起经过n天以后的日期.vcxproj -> D:\WangDao\homework\c\day2作业\Debug\6_4.输入 一个日期 和一个整数 n，输出从该日期起经过n天以后的日期.exe

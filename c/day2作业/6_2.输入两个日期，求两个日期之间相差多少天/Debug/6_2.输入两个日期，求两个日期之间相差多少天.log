@@ -1,0 +1,11 @@
+﻿  main.c
+d:\wangdao\homework\c\day2作业\6_2.输入两个日期，求两个日期之间相差多少天\main.c(65): warning C4047: “函数”:“int”与“int [2]”的间接级别不同
+d:\wangdao\homework\c\day2作业\6_2.输入两个日期，求两个日期之间相差多少天\main.c(65): warning C4024: “isLeapYear”: 形参和实参 1 的类型不同
+d:\wangdao\homework\c\day2作业\6_2.输入两个日期，求两个日期之间相差多少天\main.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\wangdao\homework\c\day2作业\6_2.输入两个日期，求两个日期之间相差多少天\main.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\wangdao\homework\c\day2作业\6_2.输入两个日期，求两个日期之间相差多少天\main.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\wangdao\homework\c\day2作业\6_2.输入两个日期，求两个日期之间相差多少天\main.c(10): warning C4101: “temp”: 未引用的局部变量
+  6_2.输入两个日期，求两个日期之间相差多少天.vcxproj -> D:\WangDao\homework\c\day2作业\Debug\6_2.输入两个日期，求两个日期之间相差多少天.exe

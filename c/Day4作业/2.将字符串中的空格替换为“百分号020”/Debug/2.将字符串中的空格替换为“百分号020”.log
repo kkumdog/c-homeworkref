@@ -1,0 +1,4 @@
+﻿  main.c
+d:\wangdao\homework\c\day4作业\2.将字符串中的空格替换为“百分号020”\main.c(10): warning C4013: “gets”未定义；假设外部返回 int
+d:\wangdao\homework\c\day4作业\2.将字符串中的空格替换为“百分号020”\main.c(10): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  2.将字符串中的空格替换为“百分号020”.vcxproj -> D:\WangDao\homework\c\Day4作业\Debug\2.将字符串中的空格替换为“百分号020”.exe

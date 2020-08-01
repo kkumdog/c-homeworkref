@@ -1,0 +1,4 @@
+﻿  main.c
+d:\wangdao\homework\c\day3作业\3.输入一行字符串(单词和若干空格)，输出该行单词\main.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  3.输入一行字符串(单词和若干空格)，输出该行单词.vcxproj -> D:\WangDao\homework\c\Day3作业\Debug\3.输入一行字符串(单词和若干空格)，输出该行单词.exe

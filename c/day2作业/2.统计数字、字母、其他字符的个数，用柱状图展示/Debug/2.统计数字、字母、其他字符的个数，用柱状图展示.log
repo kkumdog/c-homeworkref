@@ -1,0 +1,11 @@
+﻿  main.c
+d:\wangdao\homework\c\day2作业\2.统计数字、字母、其他字符的个数，用柱状图展示\main.c(66): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\wangdao\homework\c\day2作业\2.统计数字、字母、其他字符的个数，用柱状图展示\main.c(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\wangdao\homework\c\day2作业\2.统计数字、字母、其他字符的个数，用柱状图展示\main.c(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\wangdao\homework\c\day2作业\2.统计数字、字母、其他字符的个数，用柱状图展示\main.c(44): warning C4101: “max”: 未引用的局部变量
+d:\wangdao\homework\c\day2作业\2.统计数字、字母、其他字符的个数，用柱状图展示\main.c(44): warning C4101: “mid”: 未引用的局部变量
+d:\wangdao\homework\c\day2作业\2.统计数字、字母、其他字符的个数，用柱状图展示\main.c(44): warning C4101: “min”: 未引用的局部变量
+  2.统计数字、字母、其他字符的个数，用柱状图展示.vcxproj -> D:\WangDao\homework\c\day2作业\Debug\2.统计数字、字母、其他字符的个数，用柱状图展示.exe

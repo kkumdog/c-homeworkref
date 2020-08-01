@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.处理圣经以便于词频统计", "1.处理圣经以便于词频统计\1.处理圣经以便于词频统计.vcxproj", "{90E66D10-1DC7-4270-9AB5-DE8E0928184F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.统计输出圣经中词频最高的前十个单词及其词频", "2.统计输出圣经中词频最高的前十个单词及其词频\2.统计输出圣经中词频最高的前十个单词及其词频.vcxproj", "{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Debug|x64.ActiveCfg = Debug|x64
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Debug|x64.Build.0 = Debug|x64
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Debug|x86.ActiveCfg = Debug|Win32
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Debug|x86.Build.0 = Debug|Win32
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Release|x64.ActiveCfg = Release|x64
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Release|x64.Build.0 = Release|x64
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Release|x86.ActiveCfg = Release|Win32
+		{90E66D10-1DC7-4270-9AB5-DE8E0928184F}.Release|x86.Build.0 = Release|Win32
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Debug|x64.ActiveCfg = Debug|x64
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Debug|x64.Build.0 = Debug|x64
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Debug|x86.Build.0 = Debug|Win32
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Release|x64.ActiveCfg = Release|x64
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Release|x64.Build.0 = Release|x64
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Release|x86.ActiveCfg = Release|Win32
+		{1B58C0EC-96DB-45B5-800F-FD72F3EF16EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {869534E7-9712-44A3-B095-EDD784878894}
+	EndGlobalSection
+EndGlobal

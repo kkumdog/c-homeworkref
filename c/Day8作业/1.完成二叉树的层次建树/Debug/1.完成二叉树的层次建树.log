@@ -1,0 +1,8 @@
+﻿  func.c
+d:\wangdao\homework\c\day8作业\1.完成二叉树的层次建树\func.c(23): warning C4133: “=”: 从“pQueNode”到“queNode *”的类型不兼容
+d:\wangdao\homework\c\day8作业\1.完成二叉树的层次建树\func.c(27): warning C4133: “=”: 从“pNode”到“node *”的类型不兼容
+d:\wangdao\homework\c\day8作业\1.完成二叉树的层次建树\func.c(31): warning C4133: “=”: 从“pNode”到“node *”的类型不兼容
+d:\wangdao\homework\c\day8作业\1.完成二叉树的层次建树\func.c(33): warning C4133: “=”: 从“queNode *”到“pQueNode”的类型不兼容
+d:\wangdao\homework\c\day8作业\1.完成二叉树的层次建树\func.c(44): warning C4133: “函数”: 从“node *”到“pNode”的类型不兼容
+d:\wangdao\homework\c\day8作业\1.完成二叉树的层次建树\func.c(45): warning C4133: “函数”: 从“node *”到“pNode”的类型不兼容
+  1.完成二叉树的层次建树.vcxproj -> D:\WangDao\homework\c\Day8作业\Debug\1.完成二叉树的层次建树.exe

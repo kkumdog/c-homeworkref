@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.用qsort实现指针数组的排序", "1.用qsort实现指针数组的排序\1.用qsort实现指针数组的排序.vcxproj", "{F2A863EB-B08A-453B-A514-F6B376D86A30}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_1.红黑树插入节点", "2_1.红黑树插入节点\2_1.红黑树插入节点.vcxproj", "{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_2.红黑树删除节点", "2_2.红黑树删除节点\2_2.红黑树删除节点.vcxproj", "{D1E73FCD-7390-46D7-A622-EBE411E95DD4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.词法分析和语法分析", "3.词法分析和语法分析\3.词法分析和语法分析.vcxproj", "{8567331E-E6D5-475B-80F8-0E9251DAB448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Debug|x64.ActiveCfg = Debug|x64
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Debug|x64.Build.0 = Debug|x64
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Debug|x86.Build.0 = Debug|Win32
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Release|x64.ActiveCfg = Release|x64
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Release|x64.Build.0 = Release|x64
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Release|x86.ActiveCfg = Release|Win32
+		{F2A863EB-B08A-453B-A514-F6B376D86A30}.Release|x86.Build.0 = Release|Win32
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Debug|x64.ActiveCfg = Debug|x64
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Debug|x64.Build.0 = Debug|x64
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Debug|x86.Build.0 = Debug|Win32
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Release|x64.ActiveCfg = Release|x64
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Release|x64.Build.0 = Release|x64
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Release|x86.ActiveCfg = Release|Win32
+		{1D14E64C-B4BB-483A-BAE0-F35173A3EF3C}.Release|x86.Build.0 = Release|Win32
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Debug|x64.ActiveCfg = Debug|x64
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Debug|x64.Build.0 = Debug|x64
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Debug|x86.Build.0 = Debug|Win32
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Release|x64.ActiveCfg = Release|x64
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Release|x64.Build.0 = Release|x64
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Release|x86.ActiveCfg = Release|Win32
+		{D1E73FCD-7390-46D7-A622-EBE411E95DD4}.Release|x86.Build.0 = Release|Win32
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Debug|x64.ActiveCfg = Debug|x64
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Debug|x64.Build.0 = Debug|x64
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Debug|x86.ActiveCfg = Debug|Win32
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Debug|x86.Build.0 = Debug|Win32
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Release|x64.ActiveCfg = Release|x64
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Release|x64.Build.0 = Release|x64
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Release|x86.ActiveCfg = Release|Win32
+		{8567331E-E6D5-475B-80F8-0E9251DAB448}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CEFB33-66EA-4147-B022-CAA319F04B35}
+	EndGlobalSection
+EndGlobal

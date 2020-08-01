@@ -1,0 +1,4 @@
+﻿  func.c
+d:\wangdao\homework\c\day7作业\14.大整数加法\func.c(87): warning C4013: “strlen”未定义；假设外部返回 int
+d:\wangdao\homework\c\day7作业\14.大整数加法\func.c(212): warning C4047: “==”:“node *”与“unsigned int”的间接级别不同
+  14.大整数加法.vcxproj -> D:\WangDao\homework\c\Day7作业\Debug\14.大整数加法.exe
